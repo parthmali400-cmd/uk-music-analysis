@@ -1,7 +1,7 @@
-# 🎵 UK Top 50 Playlist Analysis
+#  UK Top 50 Playlist Analysis
 
-## 📌 About This Project
-Hi! 👋  
+##  About This Project
+Hi!   
 This project analyzes the **UK Top 50 music playlist** to understand how the music market works in the United Kingdom.
 
 The goal is to explore:
@@ -13,7 +13,7 @@ The goal is to explore:
 
 ---
 
-## 📊 What I Did
+##  What I Did
 In this project, I worked with real playlist data and performed:
 
 - Data cleaning and preprocessing  
@@ -25,25 +25,25 @@ In this project, I worked with real playlist data and performed:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 Some interesting things I found:
 
 - 🇬🇧 UK charts have strong **local artist presence**
-- 🤝 **Collaborations** help songs rank higher
-- 💿 **Singles perform better** than album tracks
-- 🔞 Explicit content is present but not dominant in top ranks
-- ⏱️ Short songs (~2–3 minutes) are more popular
+-  **Collaborations** help songs rank higher
+-  **Singles perform better** than album tracks
+-  Explicit content is present but not dominant in top ranks
+-  Short songs (~2–3 minutes) are more popular
 
 ---
 
-## 🛠️ Tech Stack
-- Python 🐍
-- Pandas 📊
-- Streamlit 🌐
+##  Tech Stack
+- Python 
+- Pandas 
+- Streamlit 
 
 ---
 
-## 🚀 How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository:
 ```bash
